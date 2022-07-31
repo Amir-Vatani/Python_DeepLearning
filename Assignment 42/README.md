@@ -1,6 +1,5 @@
-# Assignment 42
-### MLP (Multi Layer Perceptron) on actors
-#### result of model :
+## MLP (Multi Layer Perceptron) on actors
+### result of model :
 
 
 | epochs  |Accuracy| Loss |
